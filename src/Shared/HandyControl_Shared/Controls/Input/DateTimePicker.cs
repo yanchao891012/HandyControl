@@ -115,7 +115,6 @@ namespace HandyControl.Controls
         {
             var dp = (DateTimePicker)d;
             dp._calendarWithClock.DisplayDateTime = (DateTime)value;
-
             return dp._calendarWithClock.DisplayDateTime;
         }
 
