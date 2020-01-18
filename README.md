@@ -35,6 +35,7 @@
 <a href="https://github.com/noctwolf" target="_blank"><img width="64px" src="https://avatars3.githubusercontent.com/u/21022467?s=400&v=4"></a>
 <a href="https://github.com/xianyun666" target="_blank"><img width="64px" src="https://avatars1.githubusercontent.com/u/22339210?s=400&v=4"></a>
 <a href="https://github.com/afunc233" target="_blank"><img width="64px" src="https://avatars1.githubusercontent.com/u/19919631?s=400&v=4"></a>
+<a href="https://github.com/DinoChan" target="_blank"><img width="64px" src="https://avatars1.githubusercontent.com/u/6076257?s=400&v=4"></a>
 
 ## Backers
 
@@ -48,6 +49,9 @@
 <a href="https://github.com/AFei19911012" target="_blank"><img width="64px" src="https://avatars0.githubusercontent.com/u/31465314?s=400&v=4"></a>
 <a href="https://github.com/wayne2006" target="_blank"><img width="64px" src="https://avatars0.githubusercontent.com/u/21210915?s=400&v=4"></a>
 <a href="https://github.com/towerDLH" target="_blank"><img width="64px" src="https://avatars1.githubusercontent.com/u/53053537?s=400&v=4"></a>
+<a href="https://github.com/BluceBosen" target="_blank"><img width="64px" src="https://avatars3.githubusercontent.com/u/24750822?s=400&v=4"></a>
+<a href="https://github.com/MrZhangYuan" target="_blank"><img width="64px" src="https://avatars2.githubusercontent.com/u/16384123?s=400&v=4"></a>
+<a href="https://github.com/YC946586" target="_blank"><img width="64px" src="https://avatars2.githubusercontent.com/u/49895722?s=400&v=4"></a>
 
 ## Special thanks to
 
@@ -93,6 +97,14 @@ Step 4：enjoy coding
 
 ## Latest examples
 
+### FlowDocumentScrollViewerStyle
+
+![FlowDocumentScrollViewerStyle](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/FlowDocumentScrollViewer.png)
+
+### PinBox
+
+![PinBox](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/PinBox.png)
+
 ### Effects
 
 ![Effects](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/Effects.png)
@@ -105,6 +117,8 @@ Step 4：enjoy coding
 
 ![Drawer](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/Drawer.gif)
 
+## History publication
+
 ### Poptip
 
 ![Poptip](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/Poptip.gif)
@@ -112,8 +126,6 @@ Step 4：enjoy coding
 ### Divider
 
 ![Divider](https://raw.githubusercontent.com/HandyOrg/HandyOrgResource/master/HandyControl/Resources/Divider.png)
-
-## History publication
 
 ### GeometryAnimation
 

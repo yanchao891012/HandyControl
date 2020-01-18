@@ -80,6 +80,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)UserControl\Controls\NotificationDemoCtl.xaml.cs">
       <DependentUpon>NotificationDemoCtl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)UserControl\Controls\PinBoxDemoCtl.xaml.cs">
+      <DependentUpon>PinBoxDemoCtl.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)UserControl\Controls\RangeSliderDemoCtl.xaml.cs">
       <DependentUpon>RangeSliderDemoCtl.xaml</DependentUpon>
     </Compile>
@@ -289,6 +292,9 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)UserControl\Styles\ExpanderDemoCtl.xaml.cs">
       <DependentUpon>ExpanderDemoCtl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)UserControl\Styles\FlowDocumentScrollViewerDemoCtl.xaml.cs">
+      <DependentUpon>FlowDocumentScrollViewerDemoCtl.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)UserControl\Styles\GroupBoxDemoCtl.xaml.cs">
       <DependentUpon>GroupBoxDemoCtl.xaml</DependentUpon>
@@ -510,6 +516,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="$(MSBuildThisFileDirectory)UserControl\Controls\NotificationDemoCtl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)UserControl\Controls\PinBoxDemoCtl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -790,6 +800,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="$(MSBuildThisFileDirectory)UserControl\Styles\ExpanderDemoCtl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)UserControl\Styles\FlowDocumentScrollViewerDemoCtl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
