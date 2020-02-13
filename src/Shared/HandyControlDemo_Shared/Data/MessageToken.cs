@@ -40,5 +40,11 @@
 
         public static readonly string QQGroupView = nameof(QQGroupView);
 
+        public static readonly string GlowWindow = nameof(GlowWindow);
+
+        public static readonly string NativeCommonWindow = nameof(NativeCommonWindow);
+
+        public static readonly string NavigationWindow = nameof(NavigationWindow);
+
     }
 }
