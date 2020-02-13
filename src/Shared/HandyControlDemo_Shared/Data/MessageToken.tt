@@ -22,7 +22,10 @@ var messageList = new List<string>
 	"BlurWindow",
 	"CustomNonClientAreaWindow",
 	"NoNonClientAreaDragableWindow",
-	"QQGroupView"
+	"QQGroupView",
+	"GlowWindow",
+	"NativeCommonWindow",
+	"NavigationWindow"
 };
 #>
 namespace HandyControlDemo.Data
